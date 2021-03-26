@@ -1,1 +1,1 @@
-# calculator
+The goal of this project was to create a functioning basic calculator. Time got away from me, so I had to rely on a tutorial for the majority of this code. Luckily, it taught me essential knowledge about the capabilities of ES6 and JS classes. 
